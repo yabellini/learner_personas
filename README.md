@@ -24,6 +24,24 @@ Romina works by wrangling and analyzing data using R for a variety of clients. S
 - Facundo está iniciando su carrera de investigador. Debe hacer informes que incluyan estadísticas como parte de sus actividades en su universidad. Usa Excel e InfoStat (un programa de estadísticas basado en menús) para registrar sus datos y realizar sus cálculos; y luego utiliza Word para escribir sus informes copiando y pegando desde los otros softwares. Ha oído hablar de las herramientas que tiene R y está interesado en aprender a usarlas. Solo usó R a través de Rcomander, que aprendió en un curso sobre estadísticas.
 
 #### English
-Antonia is an accountant working in a Bank. She is young (30-45 years old). She works with many different data sources and has a lot of experience using Excel and Word. She know some basic SQL. She needs to be able to join and analyze these various data sources and generate reports for her team and her bosses. She never used R. She can’t go to workshop in work time (7.00 am to 13.00 pm), and she is a mother so need to finish before children get out of school. She is very busy and with high demand, so an intensive workshop outside her workplace is the best option for Antonia.
+- Antonia is an accountant working in a Bank. She is young (30-45 years old). She works with many different data sources and has a lot of experience using Excel and Word. She know some basic SQL. She needs to be able to join and analyze these various data sources and generate reports for her team and her bosses. She never used R. She can’t go to workshop in work time (7.00 am to 13.00 pm), and she is a mother so need to finish before children get out of school. She is very busy and with high demand, so an intensive workshop outside her workplace is the best option for Antonia.
 
-Facundo is an early-career research. He must make reports that include statistics as part of his activities at his University. Use Excel and InfoStat (an menu-based statistics program) to record his data and perform their calculations; and then use Word to write his reports by copying and pasting from the other softwares. He has heard of the tools that R has and is interested in learning to use them. He only used R through Rcomander, wich learn in a course about statistics.
+- Facundo is an early-career research. He must make reports that include statistics as part of his activities at his University. Use Excel and InfoStat (an menu-based statistics program) to record his data and perform their calculations; and then use Word to write his reports by copying and pasting from the other softwares. He has heard of the tools that R has and is interested in learning to use them. He only used R through Rcomander, wich learn in a course about statistics.
+
+### * [Google Earth Engine](https://yabellini.netlify.app/es/courses/gee_cai2019/)
+
+#### Español
+René tiene 35 años y posee un título en ingeniería agronómica. Trabaja con datos espaciales y de sensores remotos desde hace 5 años. Sus herramientas de trabajo incluyen QGIS, ENVI y gvSIG. Conoce los diferetnes catálogos de imágenes satelitales disponibles y como descargarlas. También conoce que tipo de uso se le puede dar a cada imágen, como por ejemplo que tipo de indices pueden calcularse y para qué utilizar cada uno de ellos. Como parte de su trabajo debe analizar imagenes a nivel de lote de productor pero también regionalmente. Ha escuchado hablar de geotecnologías en la nube pero no tiene experiencia utilizando estas herramientas. Tampoco programa en ningún lenguaje de programación (aunque ha utilizado algunos códigos de Python dentro de QGIS y algo de visual basic script en Excel).
+
+
+### * [R desde Cero](https://yabellini.netlify.app/es/courses/rdesdecero/)
+
+#### Español
+Felicitas está dando sus primeros pasos como investigadora en el sector agrícola. Debe hacer informes que incluyan estadísticas como parte de sus actividades en INTA. Usa Excel e InfoStat (un programa de estadísticas argentino basado en menús) para registrar sus datos y realizar sus cálculos; y luego usa Word para escribir sus informes copiando y pegando desde los otros softwares. Ella escuhó sobre las herramientas que tiene R y está interesada en aprender a usarlas. Aunque en el único curso que hizo sobre R, le dio la impresión que el software no era amigable, ya que estaba aprendiendo R y modelos mixtos en el mismo curso.
+
+> Felicitas es muy parecida a Facundo.
+
+#### English
+Felicitas is an early-career agricultural research. she must make reports that include statistics as part of her activities at INTA. Use Excel and InfoStat (an Argentine menu-based statistics program) to record her data and perform their calculations; and then use Word to write her reports by copying and pasting from the other software. She has heard of the tools that R has and is interested in learning to use them. Although in the only course she did about R she think was not friendly, since she was learning R and mixed models.
+
+> Felicitas is very similar to Facundo.
